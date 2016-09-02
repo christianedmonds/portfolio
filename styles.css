@@ -72,6 +72,9 @@ header .profile-image {
   transition: all .5s;
 }
 
+img.profile-image:hover {
+  opacity: .7;
+}
 .tag {
   background-color: #efefef;
   color: black;
